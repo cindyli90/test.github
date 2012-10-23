@@ -11,5 +11,6 @@
 int main (void)
 {
 	printf("hello!");
+	printf("bye!");
 	return 0;
 }
